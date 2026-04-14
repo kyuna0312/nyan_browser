@@ -1,4 +1,4 @@
-# 🌸 Nyan Browser (Kawaii Browser)
+# 🌸 Nyan Browser (Kawaii Browser) Inari Browser 
 
 A cute and functional web browser written in Rust with a kawaii (cute) aesthetic! (◕‿◕✿)
 
